@@ -82,7 +82,8 @@ After ~100+ episodes of self-play training, agents learn to:
 
 ## 🎥 Demo
 
-> Contains a gameplay video showing AI agents learning and scoring in real time! 🎥
+> Contains a gameplay video on linkedin showing AI agents learning and scoring in real time! 🎥
+> The video is not here in repo due to size constraints.
 
 ---
 
