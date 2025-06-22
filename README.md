@@ -97,7 +97,7 @@ Open to improvements or pull requests! Feel free to:
 
 ## 📬 Contact
 
-Made by me(inkedin.com/in/ankit-anand-b293422a4/)
+Made by [me](linkedin.com/in/ankit-anand-b293422a4/)
 
 Let’s connect if you’re working on game AI, reinforcement learning, or cool projects!
 
